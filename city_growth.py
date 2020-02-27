@@ -31,8 +31,6 @@ from pandana.loaders import osm
 import pandana
 import pylab as pl
 ox.config(log_console=True, use_cache=True)
-pl.rcParams["figure.figsize"] = (10,10)
-%pylab inline
 
 
 ===================================================================================================================================
